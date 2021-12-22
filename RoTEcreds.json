@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "record-of-tape-extraction",
+  "private_key_id": "29a9f3565e2b471b144ba0c25e3f88349b3d599c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6tZYuR/RTakuX\nXcTeE8SLgOfiG+F8KUy6ecMqjlZMSAU4XSNGw7wEary+UP36e3H51sf7xLX9fgNb\neaFF8CYhhJJO8uktNAsLfxpApVRbmCKpiWSv/uUGJyxhRTpi27uB0Zg7hlIsbhn6\n7BtHbg9z8xtLyXykf8BHibfSBno40MvHCvRv1gWvScPy1dgNxn/WXXLZytilKbyk\nQNTTKKvryQVH77itPiYeJ9zkygZgjR7fM4ja5wndUbYBZZ+FkMSkTXQNdcUw5GyB\nPgJvAFFMN6hRoj1Sj0StwG3EyovejAND74DtxZE8rEmXJ4bX7W5DEyWa1Kcsyahp\nijII3EcxAgMBAAECggEAHlSLzEJjmh5hH7p7leDrs4bSBHznfRI/dOZ9Uh8zvSoQ\n8QZOSftXgnctaJRDIermScH+lDNxJfgPxw8j5/baVuUQmHMk9nMnHSu9YcWJxeRZ\nsyVO3jk/zqdT8gw7Lx6HYBAilP7dv/p1zXmH9+tU5s7V/xKA5T8chvKEEkH7nllj\nn2Ih3ea7MgFBasnHFdsaB86t/9ttmhhoxj2qzkaQnglC7AXcIx7rYX60SczbseSu\n9ConQVdLgeZiYzyv+QMxeZIzQWwEVLnMruY1klI5fAmqkGcZWw2SaHsgrCXt5l6f\n98O7eQD65DGBWjw5dEXtaxBtNwi2hnggOjvQ6ksUHQKBgQDqr0/2VbkB80zscuaZ\nHY4vvWi4vOcl+9zJe3ptr5DDFxRTSOukxBNkGNOi3VD6F0+lzh08ETPUUYcuQwp4\nWtLShnY5/W9P2wafUTyp0RgfF/UbeR93LQ3Tt9CrcMWRyJ04o5J6atpZTi3ZKj5d\nFY+xsBiFjxCbQ/FpbinGbhQGZQKBgQDLqsowjkb/IseTYd9Rgr1sIZ6XwAyq0+jt\ncdovhZ7Az1KL422o93FnszKgqFNA9wL8ES/NfQWmCmuMK8/QMZXIf6G3b4YCqoX4\nNo3rgFE4x8ptAdR7caGOP1qunB5262BxZO9Q1P0yBi6FZlmzMcGW0nPEsvWlYotF\nHG1GfjKa3QKBgH8RBN5/c3hW32N2otxsYDwA9d5wiUbLo7ODo7oXwO2gZWTiqpO/\nhjBAMPaRlfKTBJDllHadac6fhe3KZrTbmCJco06qpcY69M72ET5w8/qB4jhJ0Hua\nbU4gzF7G5HIWiOnNxtV5XVfVOIXIlZOYxQCUM/K8j2VB2EgZWY0StMzxAoGAJnHn\n1sCUsEaNa8m20Pkf7pBuEnEjMv/rYR7zs7LCY9z+1P8qTRHga1XNQbxkcsft3U0V\nO/HUpiIjaQNAKCmj/4PwL+MyZcBwp4kMwx6mtlQoZulIhcDOYT6eTIWVzpbhzqXh\n8t0xqka2c2H9nrDOvTyes8ugSQbQCUyzZ/IcdVUCgYAw7mAoPHv2wDTpSjEU16Gs\nldpkYqV4ljxlcJd3ZpIw2nDHoANrbjGxyIaN7mOUmq7hGKGHndLzSdF4I9wjhr+V\nkFpRmJznGxQlUhWmGwzXo5v8cGa4t5YhWeX7U283q80rEKsH2Hs94CaQBafT9YHM\n3OJjhoNrVFZmadJO3dn0fA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "rotesearch@record-of-tape-extraction.iam.gserviceaccount.com",
+  "client_id": "104752712952476101562",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rotesearch%40record-of-tape-extraction.iam.gserviceaccount.com"
+}
